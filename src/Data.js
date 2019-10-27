@@ -55,6 +55,14 @@ var Data = [
         img: "https://cdn.pixabay.com/photo/2014/09/03/20/15/legs-434918_960_720.jpg",
         contact: "09665111111",
         email: "unknown@generalassemb.ly",
+    }, {
+        name: "Ali",
+        Age: 29,
+        city: "Jeddah",
+        Major: "unknown",
+        img: "https://cdn.pixabay.com/photo/2014/09/03/20/15/legs-434918_960_720.jpg",
+        contact: "09665111111",
+        email: "unknown@generalassemb.ly",
     }
 ]
 export default Data
